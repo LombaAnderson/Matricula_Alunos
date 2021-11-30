@@ -10,56 +10,29 @@ Matricula_Alunos é uma aplicação de cadastro do nome, email e nome do curso d
 <img src="https://user-images.githubusercontent.com/60937513/144054070-e6e673d8-bdc6-4691-a2ce-5f9752ccf6a2.png" width="600" />
 </div>
 
-
-
 # Tecnologias utilizadas
-## Back end
-- 
-- Spring Boot
-- JPA / Hibernate
-- Maven
 ## Front end
-- HTML / CSS / JS / TypeScript
-- ReactJS
-- React Native
-- Apex Charts
-- Expo
-## Implantação em produção
-- Back end: Heroku
-- Front end web: Netlify
-- Banco de dados: Postgresql
-
-# Como executar o projeto
+- PHP / CSS / HTML
 
 ## Back end
-Pré-requisitos: Java 11
+- Xampp
+- Mysql
+
+# Instruções para rodar o projeto
 
 ```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+# Clonar repositório
+git clone https://github.com/LombaAnderson/Matricula_Alunos
 
-# entrar na pasta do projeto back end
-cd backend
+# Criação do projeto 
+- página html : index.html e posteriormente php
+- arquivos 
 
-# executar o projeto
-./mvnw spring-boot:run
-```
 
-## Front end web
-Pré-requisitos: npm / yarn
 
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+# Acesso ao navegador
+- Local: http://localhost/formulario/
 
-# entrar na pasta do projeto front end web
-cd front-web
-
-# instalar dependências
-yarn install
-
-# executar o projeto
-yarn start
 ```
 
 # Autor
@@ -70,7 +43,10 @@ Linkedin
 
 https://www.linkedin.com/in/anderson-lomba-140279142/
 
-Portfólio em andamento
+Portfólio
 
-lombanderson.epizy.com
+https://www.lombanderson.epizy.com
 
+# Agradecimentos
+
+Agradeço sobretudo a Deus e a minha esposa que está sempre comigo!
