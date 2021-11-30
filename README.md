@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-Matricula_Alunos é uma aplicação de cadastro do nome, email e nome do curso do aluno com a framework PHP e Mysql no banco de dados usando o Xampp. O projeto consiste em criar uma página HTML 
+Matricula_Alunos é uma aplicação de cadastro de nome, email e nome do curso do aluno com a framework PHP, Mysql no banco de dados e também o Xampp. O projeto consiste em criar uma página HTML que posteriormente é modificada com fim Php e nessa página é criada a estrutura da página com o layout do CSS. É preciso ter instalado o Xampp para fazer a ligação da página com o banco de dados de cadastro para que a aplicação funcione e essa junção é desenvolvida pelas classes Form.php que se encarrega do cadastro, Mysql.php que é essencial no banco de dados e por fim a classe config.php de extrema importância na configuração das informações do cadastro. 
 
 # Imagem da página de cadastro
 <div align="center">
@@ -26,9 +26,8 @@ git clone https://github.com/LombaAnderson/Matricula_Alunos
 
 # Criação do projeto 
 - página html : index.html e posteriormente php
-- arquivos 
-
-
+- arquivos da pasta classes : Form.php, Mysql.php e config.php
+- arquivo css : form.css
 
 # Acesso ao navegador
 - Local: http://localhost/formulario/
